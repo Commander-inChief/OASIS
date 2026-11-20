@@ -14,8 +14,9 @@ raylib
 ## Team members
 - Member 1: Othman
 - Member 2: Alaoma
-- Member 3: Sifrina
-- Member 4: Ikenna
+- Member 3: Aisha
+- Member 4: Sifrina
+- Member 5: Ikenna
 
 ## Features
 - Dinosaur jumping
