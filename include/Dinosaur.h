@@ -13,4 +13,5 @@ void InitDinosaur(Dinosaur &dino, float startX, float groundY);
 void UpdateDinosaur(Dinosaur &dino);
 void DrawDinosaur(const Dinosaur &dino);
 void UnloadDinosaur(Dinosaur &dino);
+void ResetDinosaur(Dinosaur &dino);
 Rectangle GetDinosaurRect(const Dinosaur &dino);
